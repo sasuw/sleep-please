@@ -1,3 +1,6 @@
+/**
+ * Contains static sleep-related methods
+ */
 export class Sleep{
 
     /**
