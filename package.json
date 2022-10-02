@@ -1,7 +1,7 @@
 {
   "name": "sleep-please",
-  "version": "0.0.21",
-  "description": "An npm package for demonstration purposes using TypeScript to build for both the ECMAScript Module format (i.e. ESM or ES Module) and CommonJS Module format. It can be used in Node.js and browser applications.",
+  "version": "0.0.22",
+  "description": "Pause execution (sleep)",
   "exports": {
     ".": {
       "import": {
@@ -37,32 +37,21 @@
       "main"
     ]
   },
-  "publishConfig": {
-    "registry": "http://gitea.snet:4873"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/snyk-labs/modern-npm-package.git"
+    "url": "https://github.com/sasuw/sleep-please"
   },
   "keywords": [
-    "npm",
-    "javascript",
-    "typescript",
-    "esm",
-    "cjs",
-    "nodejs",
-    "commonjs",
-    "ecmascript",
-    "beginner",
-    "example",
-    "demonstration"
+    "sleep",
+    "wait",
+    "pause"
   ],
   "author": "Sasu Welling",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/snyk-labs/modern-npm-package/issues"
+    "url": "https://github.com/sasuw/sleep-please/issues"
   },
-  "homepage": "https://github.com/snyk-labs/modern-npm-package#readme",
+  "homepage": "https://github.com/sasuw/sleep-please#readme",
   "devDependencies": {
     "@types/chai": "^4.3.3",
     "@types/mocha": "^9.1.1",
