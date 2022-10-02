@@ -1,6 +1,6 @@
 {
   "name": "sleep-please",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Pause execution (sleep)",
   "exports": {
     ".": {
