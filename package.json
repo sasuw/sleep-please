@@ -1,6 +1,6 @@
 {
   "name": "sleep-please",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Pause execution (sleep)",
   "exports": {
     ".": {
@@ -49,7 +49,7 @@
     "pause"
   ],
   "author": "Sasu Welling",
-  "license": "MIT",
+  "license": "BSD 0-clause",
   "bugs": {
     "url": "https://github.com/sasuw/sleep-please/issues"
   },
