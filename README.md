@@ -7,6 +7,12 @@ Sleeps (pauses execution) for a given amount of time.
 * Can be used in both CommonJS and ESM projects
 * No external dependencies
 
+## Installing
+
+```
+npm install sleep-please
+```
+
 ## Usage
 
 ### CommonJS
