@@ -44,7 +44,7 @@ import Sleep from 'sleep-please';
 
 ### API Documentation
 
-https://github.com/sasuw/sleep-please/docs/classes/Sleep.html
+https://sasuw.github.io/sleep-please/classes/Sleep.html
 
 ### License
 
