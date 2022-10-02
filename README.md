@@ -21,11 +21,9 @@ npm install sleep-please
 const Sleep = require('sleep-please').default;
 
 (async () => {
-
   console.log('Starting to sleep');
   await Sleep.sleep(2000);
   console.log('Slept two seconds');
-
 })();
 ```
 
@@ -38,7 +36,6 @@ import Sleep from 'sleep-please';
   console.log('Starting to sleep');
   await Sleep.sleep(2000);
   console.log('Slept two seconds');
-
 })();
 ```
 
