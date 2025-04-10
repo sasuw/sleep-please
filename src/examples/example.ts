@@ -1,4 +1,4 @@
-import { Sleep } from './sleep';
+import { Sleep } from '../sleep';
 
 async function demonstrateSleep() {
   console.log('Starting sleep demonstration');

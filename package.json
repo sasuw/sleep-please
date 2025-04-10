@@ -35,7 +35,8 @@
     "pub-npmjs": "shx cp .npmrc-npmjs .npmrc && npm run pub",
     "pub-private": "shx cp .npmrc-private .npmrc && npm run pub",
     "typedoc": "typedoc --tsconfig ./configs/tsconfig.esm.json src/sleep.ts ",
-    "example": "ts-node src/example.ts"
+    "example": "npx tsx src/examples/example.ts",
+    "example-abort": "npx tsx src/examples/example-abort.ts"
   },
   "release": {
     "branches": [
@@ -70,6 +71,7 @@
     "semantic-release": "^24.2.3",
     "shx": "^0.4.0",
     "ts-node": "^10.9.2",
+    "tsx": "^4.19.3",
     "typedoc": "^0.28.2",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.29.1"
