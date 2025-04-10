@@ -9,7 +9,7 @@ to implement a NodeJS project working with both CommonJS and ESM support.
 
 ## What's with the name?
 
-I like palindromes and it's almost a [phonetic](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) [palindrome](https://en.wikipedia.org/wiki/Palindrome).
+I like anagrams and it's almost a [phonetic](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) [anagram](https://en.wikipedia.org/wiki/Anagram).
 sleep: `/sliːp/`
 please: `/pliːz/`
 
