@@ -10,19 +10,20 @@ to implement a NodeJS project working with both CommonJS and ESM support.
 ## What's with the name?
 
 I like anagrams and it's almost a [phonetic](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) [anagram](https://en.wikipedia.org/wiki/Anagram).
-sleep: `/sliːp/`
+
+sleep: `/sliːp/`  
 please: `/pliːz/`
 
 ## Contents
 
-[Features](#features)
-[Installing](#installing)
-[Usage examples](#usage-examples)
-[API Documentation](#api-documentation)
-[Compatibility](#compatibility)
-[Performance](#performance)
-[License](#license)
-[Contributing](#contributing)
+[Features](#features)  
+[Installing](#installing)  
+[Usage examples](#usage-examples)  
+[API Documentation](#api-documentation)  
+[Compatibility](#compatibility)  
+[Performance](#performance)  
+[License](#license)  
+[Contributing](#contributing)  
 
 
 ## Features
